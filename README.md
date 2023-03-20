@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 ## 🔗 Lets Connect
 
 <p align="center">
-  <a href="https://adarshgupta.vercel.app/">
+  <a href="https://adarshgupta.vercel.app/" target="_blank">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
   </a>
-  <a href="https://www.linkedin.com/in/apneduniya/">
+  <a href="https://www.linkedin.com/in/apneduniya/" target="_blank">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
   </a>
-  <a href="https://twitter.com/thatsmeadarsh">
+  <a href="https://twitter.com/thatsmeadarsh" target="_blank">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
   </a>
 </p>
