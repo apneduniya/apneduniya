@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Adarsh%20😉&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
 </p>
 
- ## <h3 align="center">🔗 Lets Connect</h3>
+## 🔗 Lets Connect
 
 <p align="center">
   <a href="https://adarshgupta.vercel.app/">
