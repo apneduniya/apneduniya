@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Adarsh%20😉&animation=fadeIn&type=waving&color=gradient&height=160"/>
 </p>
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets2.lottiefiles.com/packages/lf20_lqbx9x0z.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop  autoplay></lottie-player>
