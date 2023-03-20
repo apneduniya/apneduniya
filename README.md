@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Adarsh%20😉&animation=fadeIn&type=waving&color=gradient&height=160"/>
 </p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apneduniya&hide=TeX&layout=compact)
 
