@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Adarsh%20😉&animation=fadeIn&type=waving&color=gradient&height=160"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Adarsh%20😉&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
 </p>
 
 ## ⚡ Technologies
@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 ## Visitors Count
 
 ![Visitor Count](https://profile-counter.glitch.me/apneduniya/count.svg)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer"/>
+</p>
