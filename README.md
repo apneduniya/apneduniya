@@ -19,6 +19,6 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Adarsh%20😉&animation=fadeIn&type=waving&color=gradient&height=160"/>
 </p>
 
-<p align="center">
-<iframe src="https://embed.lottiefiles.com/animation/79902"></iframe>
-</p>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 100%;">
+  <iframe src="https://lotte-player.netlify.app/" frameborder="0" style="position: absolute; width: 100%; height: 100%;"></iframe>
+</div>
