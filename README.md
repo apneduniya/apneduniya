@@ -19,8 +19,9 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Adarsh%20😉&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
 </p>
 
+<h3 style="margin: 20px auto">🔗 Lets Connect</h3>
+
 <p align="center">
-  <span style="margin: 20px 0">🔗 Lets Connect</span>
   <a href="https://adarshgupta.vercel.app/">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
   </a>
