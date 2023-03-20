@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 
 ## ⚡ Technologies
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=apneduniya&count_private=true&show_icons=true&include_all_commits=true)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=apneduniya&count_private=true&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/apneduniya/github-readme-stats#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apneduniya&hide=TeX&layout=compact)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=apneduniya&count_private=true&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/apneduniya/github-readme-stats#gh-dark-mode-only)
+![[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apneduniya&hide=TeX&layout=compact&count_private=true&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/apneduniya/github-readme-stats#gh-dark-mode-only)
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 ![Visitor Count](https://profile-counter.glitch.me/apneduniya/count.svg)
