@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Adarsh%20😉&animation=fadeIn&type=waving&color=gradient&height=160"/>
 </p>
+
+<p align="center">
 <iframe src="https://embed.lottiefiles.com/animation/79902"></iframe>
+</p>
