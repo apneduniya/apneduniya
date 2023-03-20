@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  ## 🔗 Lets Connect
+  <span style="margin: 20px 0">🔗 Lets Connect</span>
   <a href="https://adarshgupta.vercel.app/">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
   </a>
