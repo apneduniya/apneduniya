@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  [![Typing Effect](https://readme-typing-svg.demolab.com?font=Tilt+Neon&size=35&duration=1000&pause=1000&width=500&lines=Full+Stack+Developer;ReactJS+Develpoer;NextJS+Developer;Django+Developer;Python+Developer;Fastapi+Developer;Creative+Fellow;Friendly+Boy)](https://github.com/Nisarga-Developer/nisarga-developer)
+![Typing Effect](https://readme-typing-svg.demolab.com?font=Tilt+Neon&size=35&duration=1000&pause=1000&width=500&lines=Full+Stack+Developer;ReactJS+Develpoer;NextJS+Developer;Django+Developer;Python+Developer;Fastapi+Developer;Creative+Fellow;Friendly+Boy)
 </p>
 
 ## 🔗 Let's Connect
