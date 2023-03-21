@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Adarsh%20😉&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
 </p>
 
-![](https://i.pinimg.com/originals/3a/28/1d/3a281dd0cf5b4b85e112d555df6d5044.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/3a/28/1d/3a281dd0cf5b4b85e112d555df6d5044.gif"/>
+</p>
 
 ![Typing Effect](https://readme-typing-svg.demolab.com?font=Tilt+Neon&size=35&duration=1500&pause=1000&width=540&lines=Full+Stack+Developer;ReactJS+Develpoer;NextJS+Developer;Django+Developer;Python+Developer;Fastapi+Developer;Creative+Fellow;Friendly+Boy)
 
