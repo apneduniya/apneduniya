@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Adarsh%20😉&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
 </p>
 
-<p align="center">
+<div align="center">
 ![Typing Effect](https://readme-typing-svg.demolab.com?font=Tilt+Neon&size=35&duration=1000&pause=1000&width=500&lines=Full+Stack+Developer;ReactJS+Develpoer;NextJS+Developer;Django+Developer;Python+Developer;Fastapi+Developer;Creative+Fellow;Friendly+Boy)
-</p>
+</div>
 
 ## 🔗 Let's Connect
 
