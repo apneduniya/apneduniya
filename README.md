@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3a/28/1d/3a281dd0cf5b4b85e112d555df6d5044.gif"/>
+  <img src="https://media.tenor.com/Mzc9A_tkLm4AAAAd/alone-sad.gif"/>
 </p>
 
-<br/>
+
 
 ![Typing Effect](https://readme-typing-svg.demolab.com?font=Tilt+Neon&size=35&duration=1500&pause=1000&width=540&lines=Full+Stack+Developer;ReactJS+Develpoer;NextJS+Developer;Django+Developer;Python+Developer;Fastapi+Developer;Creative+Fellow;Friendly+Boy)
 
