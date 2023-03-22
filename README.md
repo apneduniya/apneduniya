@@ -50,7 +50,7 @@
 
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31j6cbyqeqj7sif7u4mgiykpufbq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31j6cbyqeqj7sif7u4mgiykpufbq&redirect=true)
  
-## My Discord Status
+## <img src="https://img.icons8.com/color/256/discord-logo.png" width="30px" height="30px" alt="DiscordLogo"> My Discord Status
  
  <a href="https://discord.com/users/1059415927789195306" target="_blank"><img src="https://discord.c99.nl/widget/theme-3/1059415927789195306.png"/>
 
