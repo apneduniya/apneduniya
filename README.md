@@ -10,6 +10,8 @@
 
 ![Typing Effect](https://readme-typing-svg.demolab.com?font=Tilt+Neon&size=35&duration=1500&pause=1000&width=540&lines=Full+Stack+Developer;ReactJS+Develpoer;NextJS+Developer;Django+Developer;Python+Developer;Fastapi+Developer;Creative+Fellow;Self+Learner)
 
+[![An image of @apneduniya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/apneduniya)](https://holopin.io/@apneduniya)
+
 ## 🔗 Let's Connect
 
 <p align="center">
@@ -47,7 +49,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apneduniya&hide=TeX&layout=compact&theme=dark#gh-dark-mode-only)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=apneduniya&theme=onedark)]
-[![An image of @apneduniya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/apneduniya)](https://holopin.io/@apneduniya)
 
 # <img src="https://cdn3.emoji.gg/emojis/SpotifyLogo.png" width="30px" height="30px" alt="SpotifyLogo">  My Spotify Status
 
