@@ -28,7 +28,7 @@
 
 ## ⚡ Technologies
 
-<p align="left">
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
@@ -44,11 +44,12 @@
 </p>
 
 ## 📈 &nbsp;My GitHub History!
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=apneduniya&count_private=true&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apneduniya&hide=TeX&layout=compact&theme=dark#gh-dark-mode-only)
-![trophy](https://github-profile-trophy.vercel.app/?username=apneduniya&theme=onedark)
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Adarsh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=apneduniya&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
+<p align="center">
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=apneduniya&count_private=true&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apneduniya&hide=TeX&layout=compact&theme=dark#gh-dark-mode-only)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=apneduniya&theme=onedark)
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Adarsh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=apneduniya&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
+</p>
 
 # <img src="https://cdn3.emoji.gg/emojis/SpotifyLogo.png" width="30px" height="30px" alt="SpotifyLogo">  My Spotify Status
 
