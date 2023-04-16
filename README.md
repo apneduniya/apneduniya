@@ -43,7 +43,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 </p>
 
-## 📈 &nbsp;My GitHub History!
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> My GitHub History!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=apneduniya&count_private=true&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only"/>
