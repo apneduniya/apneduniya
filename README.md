@@ -49,8 +49,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apneduniya&hide=TeX&layout=compact&theme=dark#gh-dark-mode-only)
 ![trophy](https://github-profile-trophy.vercel.app/?username=apneduniya&theme=onedark)
 <p align='center'>
- <img src="https://stats.quine.sh/vaishnavi3969/web3?theme=dark" height=350px width=400px>
- <img src = "https://stats.quine.sh/vaishnavi3969/github?theme=dark" height=350px width=300px>
+ <img src="https://stats.quine.sh/apneduniya/web3?theme=dark" height=350px width=400px>
+ <img src = "https://stats.quine.sh/apneduniya/github?theme=dark" height=350px width=300px>
 <p>
 
 # <img src="https://cdn3.emoji.gg/emojis/SpotifyLogo.png" width="30px" height="30px" alt="SpotifyLogo">  My Spotify Status
