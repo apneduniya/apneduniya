@@ -7,8 +7,9 @@
 </p>
 
 
-
+<br />
 ![Typing Effect](https://readme-typing-svg.demolab.com?font=Tilt+Neon&size=35&duration=1500&pause=1000&width=540&lines=Full+Stack+Developer;ReactJS+Develpoer;NextJS+Developer;Django+Developer;Python+Developer;Fastapi+Developer;Creative+Fellow;Self+Learner)
+<br />
 
 [![An image of @apneduniya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/apneduniya)](https://holopin.io/@apneduniya)
 
