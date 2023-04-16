@@ -26,7 +26,7 @@
   </a>
 </p>
 
-## ⚡ Technologies
+## <img src= "https://media.giphy.com/media/hpFCIpvGxUKgTfjRKl/giphy.gif" width="60" height="60px"> Technologies
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -52,7 +52,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=apneduniya&theme=onedark"/>
 </p>
 
-# <img src="https://cdn3.emoji.gg/emojis/SpotifyLogo.png" width="30px" height="30px" alt="SpotifyLogo">  My Spotify Status
+## <img src="https://cdn3.emoji.gg/emojis/SpotifyLogo.png" width="30px" height="30px" alt="SpotifyLogo">  My Spotify Status
 
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31j6cbyqeqj7sif7u4mgiykpufbq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31j6cbyqeqj7sif7u4mgiykpufbq&redirect=true)
  
@@ -60,9 +60,9 @@
  
  <a href="https://discord.com/users/1059415927789195306" target="_blank"><img src="https://discord.c99.nl/widget/theme-3/1059415927789195306.png"/>
 
-## 🏄 Visitors Count
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWEwZDZmMTdhZGEzMWQ3ZDlmNGFmZGEwZGJjMDQ1NzAzODg3ZmRmZCZjdD1z/LM7mVNy0iAZpTBAkIH/giphy.gif" width="50px" height="50px"> Visitors Count
 
-![Visitor Count](https://profile-counter.glitch.me/apneduniya/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/apneduniya/count.svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer"/>
