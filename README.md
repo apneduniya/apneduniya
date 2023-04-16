@@ -47,7 +47,7 @@
 </p> -->
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=html,css,bash,git,mysql,mongodb,firebase,cpp,react,nextjs,py,github,django,fastapi,netlify,nodejs,replit,vscode,solidity,vercel"/>
+   <img src="https://skillicons.dev/icons?i=html,css,bash,git,mysql,mongodb,firebase,cpp,react,nextjs,py,github,django,fastapi,netlify,nodejs,replit,vscode,solidity,vercel,codepen"/>
 </p>
 <br>
 
