@@ -58,6 +58,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apneduniya&hide=TeX&layout=compact&theme=dark#gh-dark-mode-only"/>
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Adarsh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=apneduniya&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
   <img src="https://github-profile-trophy.vercel.app/?username=apneduniya&theme=onedark"/>
+  <img src="https://stats.quine.sh/thatsmeadarsh/github?theme=dark" />
 </p>
 
 ## <img src="https://cdn3.emoji.gg/emojis/SpotifyLogo.png" width="30px" height="30px" alt="SpotifyLogo">  My Spotify Status
