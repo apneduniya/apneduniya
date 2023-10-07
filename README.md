@@ -13,7 +13,6 @@
 
 <br />
 
-[![An image of @apneduniya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/apneduniya)](https://holopin.io/@apneduniya)
 
 ## 🔗 Let's Connect
 
