@@ -6,6 +6,11 @@
   <img src="https://i.pinimg.com/originals/3a/28/1d/3a281dd0cf5b4b85e112d555df6d5044.gif"/>
 </p>
 
+<br />
+
+<p align="center">
+  <img src="https://wakatime.com/badge/user/6c6e28b5-0199-455c-b61e-30edc358fb1c.svg" alt="Total time coded since Jul 11 2023" />
+</p>
 
 <br />
 
