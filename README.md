@@ -10,6 +10,8 @@
 
 <p align="center">
   <img src="https://wakatime.com/badge/user/6c6e28b5-0199-455c-b61e-30edc358fb1c.svg" alt="Total time coded since Jul 11 2023" />
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2664&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+" alt="Total time coded since May 18 2025" />
 </p>
 
 <br />
