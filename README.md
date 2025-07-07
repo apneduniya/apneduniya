@@ -10,8 +10,6 @@
 
 <p align="center">
   <img src="https://wakatime.com/badge/user/6c6e28b5-0199-455c-b61e-30edc358fb1c.svg" alt="Total time coded since Jul 11 2023" />
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2664&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
-" alt="Total time coded since May 18 2025" />
 </p>
 
 <br />
@@ -65,7 +63,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apneduniya&hide=TeX&layout=compact&theme=dark#gh-dark-mode-only"/>
   <p align="center">
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Adarsh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=apneduniya&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
-  <img src="https://stats.quine.sh/thatsmeadarsh/github?theme=dark" />
   </p>
   <img src="https://github-profile-trophy.vercel.app/?username=apneduniya&theme=onedark"/>
 <!--   <img src="https://stats.quine.sh/thatsmeadarsh/topics-over-time?theme=dark" /> -->
